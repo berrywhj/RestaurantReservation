@@ -1,9 +1,9 @@
-### Descripotion
+# Descripotion
 Users of this Dragon Pizza App can make their reservations to Dragon Pizza through this app. The user can pre fill their name and contact info in the account page. They can view the locations of Dragon Pizza through a list view or a map view. Through the list view or the map view, users can navigate to the reservation page to make a reservation. In this reservation page, users can take advantage of their pre filled contact info to fast fill the reservation form. There is a reservation history view where users can check the list of their reservation history. If the users have other plans, they can cancel their active reservations.
 
-### To see a view demo, [Click here](https://drive.google.com/file/d/1PU8RGoMuXafel6NYNIqJJZVUG42ho9u6/view?usp=sharing)
+# To see a view demo, [Click here](https://drive.google.com/file/d/1PU8RGoMuXafel6NYNIqJJZVUG42ho9u6/view?usp=sharing)
 
-### Screenshots
+# Screenshots
 <img width="282" alt="image" src="https://github.com/berrywhj/RestaurantReservation/assets/63690540/427ab218-3535-4440-8f30-3d5d7c4e062b">
 
 <img width="300" alt="image" src="https://github.com/berrywhj/RestaurantReservation/assets/63690540/37f1f8a2-67bf-41b2-8d78-1d9d3c404472">
